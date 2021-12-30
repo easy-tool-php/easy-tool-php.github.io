@@ -1,2 +1,3 @@
-# easy-tool.github.io
-Document
+# Easy Tool
+
+Document of Easy Tool
